@@ -1,6 +1,7 @@
-# MSVCSTLExamples
+# Microsoft Visual C++ STL Examples
 
-Example code showcasing some of the capability of the MSVC C++ STL
+Example code showcasing some of the capability of the MSVC C++ STL. This was done in tandem with the Microsoft Student Ambassador program
+where I gave a brief talk about the C++ STL. The recording of which can be found on my YouTube channel [here]().
 
 ## Setup
 
@@ -11,6 +12,11 @@ outside of this repository / directory.
 ### Making a Project with Visual C++
 
 
+## Other Resources
+
+- [STL Video Lecture Series]().
+- [STL Discord Server]().
+- [MSVC STL Documentation]().
 
 ## License
 
