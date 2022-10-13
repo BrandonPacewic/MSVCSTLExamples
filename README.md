@@ -22,4 +22,4 @@ outside of this repository / directory.
 
 Copyright (c) Brandon Pacewic
 
-SPDX-License-Identifier: MIT WITH MSVC STL-Exception
+SPDX-License-Identifier: MIT
