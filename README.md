@@ -14,9 +14,10 @@ outside of this repository / directory.
 
 ## Other Resources
 
-- [STL Video Lecture Series]().
-- [STL Discord Server]().
-- [MSVC STL Documentation]().
+- [STL Video Lecture Series](https://learn.microsoft.com/shows/c9-lectures-stephan-t-lavavej-standard-template-library-stl-/c9-lectures-introduction-to-stl-stephan-t-lavavej).
+- [STL Discord Server](https://discord.com/invite/XWanNww).
+- [STL GitHub](https://github.com/microsoft/STL).
+- [MSVC STL Documentation](https://learn.microsoft.com/cpp/standard-library/cpp-standard-library-reference?view=msvc-170).
 
 ## License
 
